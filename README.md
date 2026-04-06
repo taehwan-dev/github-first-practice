@@ -115,35 +115,11 @@ Plant는 학습 시간을 바탕으로 나만의 식물을 가꾸는 재미를 �
 | 분류 | 기술 |
 |------|------|
 | Language | <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> |
-| UI Framework | Jetpack Compose |
-| Async | Coroutines & Flow |
-| Architecture | MVVM, Feature-based, AppContainer (수동 DI) |
-| Backend | Firebase Authentication, Cloud Firestore |
-| Local Storage | Preferences DataStore |
-| Design & Tools | Figma, Android Studio, GitHub, Notion |
-Language
+| UI Framework | <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=Android&logoColor=white"> |
+| Async | <img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> |
+| Architecture | <img src="https://img.shields.io/badge/MVVM-3DDC84?style=flat-square&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/Feature--based-3DDC84?style=flat-square&logo=Android&logoColor=white"> <img src="https://img.shields.io/badge/AppContainer%20%28Manual%20DI%29-3DDC84?style=flat-square&logo=Android&logoColor=white"> |
+| Backend | <img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat-square&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat-square&logo=Firebase&logoColor=white"> |
+| Local Storage | <img src="https://img.shields.io/badge/Preferences%20DataStore-3DDC84?style=flat-square&logo=Android&logoColor=white"> |
+| Design & Tools | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> |
 
 
- UI Framework
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=Android&logoColor=white">
-
- Async
-<img src="https://img.shields.io/badge/Coroutines%20%26%20Flow-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
-
- Architecture
-<img src="https://img.shields.io/badge/MVVM-3DDC84?style=flat-square&logo=Android&logoColor=white"> 
-<img src="https://img.shields.io/badge/Feature--based-3DDC84?style=flat-square&logo=Android&logoColor=white"> 
-<img src="https://img.shields.io/badge/AppContainer%20%28Manual%20DI%29-3DDC84?style=flat-square&logo=Android&logoColor=white"> 
-
- Backend
-<img src="https://img.shields.io/badge/Firebase%20Auth-FFCA28?style=flat-square&logo=Firebase&logoColor=white"> 
-<img src="https://img.shields.io/badge/Cloud%20Firestore-FFCA28?style=flat-square&logo=Firebase&logoColor=white">
-
- Local Storage
-<img src="https://img.shields.io/badge/Preferences%20DataStore-3DDC84?style=flat-square&logo=Android&logoColor=white">
-
- Design & Tools
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"> 
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android&logoColor=white"> 
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
